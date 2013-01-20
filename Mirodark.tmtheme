@@ -44,6 +44,19 @@
 			</dict>
 		</dict>
 		<dict>
+		    <key>name</key>
+		    <string>Block Cursor</string>
+		    <key>scope</key>
+		    <string>block_cursor</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#c0c0c0</string>
+		        <key>background</key>
+		        <string>#cf4f88</string>
+		    </dict>
+		</dict>
+		<dict>
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
