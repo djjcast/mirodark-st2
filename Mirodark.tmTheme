@@ -18,9 +18,9 @@
 				<key>invisibles</key>
 				<string>#53a6a6</string>
 				<key>lineHighlight</key>
-				<string>#3d3d3d</string>
+				<string>#272727</string>
 				<key>selection</key>
-				<string>#5e5e5e</string>
+				<string>#3d3d3d</string>
 				<key>findHighlight</key>
 				<string>#c0c0c0</string>
 				<key>findHighlightForeground</key>
@@ -441,7 +441,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#395573</string>
+				<string>#287373</string>
 			</dict>
 		</dict>
 		<dict>
@@ -452,7 +452,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2b7694</string>
+				<string>#395573</string>
 			</dict>
 		</dict>
 		<dict>
