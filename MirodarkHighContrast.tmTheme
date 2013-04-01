@@ -27,8 +27,12 @@
 				<string>#8a2f58</string>
 				<key>selectionBorder</key>
 				<string>#899ca1</string>
+				<key>guide</key>
+				<string>#5e5e5e</string>
 				<key>activeGuide</key>
 				<string>#53a6a6</string>
+				<key>stackGuide</key>
+				<string>#287373</string>
 				<key>bracketsForeground</key>
 				<string>#cf4f88</string>
 				<key>bracketsOptions</key>
